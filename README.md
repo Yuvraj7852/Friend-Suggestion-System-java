@@ -4,7 +4,7 @@ This project suggests friends to a user based on mutual connections (friend of f
 
 ---
 
-## 📌 Features
+##  Features
 
 - Built using **Graph (Adjacency List)**
 - Uses **HashMap** to map user IDs to real names
@@ -14,7 +14,7 @@ This project suggests friends to a user based on mutual connections (friend of f
 
 ---
 
-## 🧠 How It Works
+##  How It Works
 
 - Each user is represented as a node in a graph
 - Edges represent friendships (bi-directional)
@@ -25,7 +25,7 @@ This project suggests friends to a user based on mutual connections (friend of f
 
 ---
 
-## 🔧 Technologies Used
+##  Technologies Used
 
 - Java
 - Data Structures:
@@ -34,8 +34,7 @@ This project suggests friends to a user based on mutual connections (friend of f
   - HashSet (for suggestion list)
 
 ---
-
-## 🖥️ Sample Output
+##  Sample Output
 Friend Suggestion for yuvraj: raj vinod .
 Friend Suggestion for tanay: santosh .
 Friend Suggestion for santosh: tanay .
